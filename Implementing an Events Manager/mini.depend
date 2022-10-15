@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1658405803 source:f:\problem solving\mini\main.cpp
+	<iostream>
+	<queue>
+	"EventManager.h"
+	<cstdlib>
+	"EventGenerator.h"
+
+1658322764 source:f:\problem solving\mini\event manager.cpp
+	<iostream>
+	<queue>
+	<thread>
+
+1658403603 source:f:\problem solving\mini\eventtype.cpp
+	"EventType.h"
+
+1658403459 source:f:\problem solving\mini\eventmanager.cpp
+	"EventManager.h"
+
+1658356693 f:\problem solving\mini\eventtype.cpp
+	<iostream>
+	"EventType.h"
+
+1658357397 f:\problem solving\mini\eventmanager.cpp
+	"EventManager.h"
+
+1658356816 f:\problem solving\mini\eventtype.h
+	<iostream>
+	"Parent_hw_sys.h"
+	"Child_hw_sys.h"
+
+1658404252 f:\problem solving\mini\parent_hw_sys.h
+	<iostream>
+
+1658404273 source:f:\problem solving\mini\parent_hw_sys.cpp
+	"Parent_hw_sys.h"
+
+1658403509 source:f:\problem solving\mini\child_hw_sys.cpp
+	"Child_hw_sys.h"
+
+1658403529 f:\problem solving\mini\child_hw_sys.h
+	<iostream>
+	"Parent_hw_sys.h"
+
+1658403445 f:\problem solving\mini\eventmanager.h
+	<iostream>
+	<queue>
+	<thread>
+	"EventType.h"
+
+1658403418 source:f:\problem solving\mini\eventgenerator.cpp
+	"EventGenerator.h"
+
+1658363609 f:\problem solving\mini\eventgenerator.cpp
+	<iostream>
+	<thread>
+	"EventManager.h"
+
+1658403427 f:\problem solving\mini\eventgenerator.h
+	<iostream>
+	<thread>
+	"EventManager.h"
+
